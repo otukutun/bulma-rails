@@ -1,0 +1,3 @@
+[submodule "bulma-extensions"]
+	path = app/assets/stylesheets/sass/extensions
+	url = https://wikiki@github.com/Wikiki/bulma-extensions.git
